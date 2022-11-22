@@ -1,0 +1,14 @@
+
+
+
+                                                    ----- experimetns ----->
+                                                   /
+                                                 branch
+                                                   |
+start ------> commit 1 ------> commit 2 ------> commit 3 ..... ------> commit N ----> main
+                                                   ^                      ^
+                                                   |                      | 
+                                                  tag 1                   |
+                                                   ^                     HEAD   
+                                                   |
+                                                   -------- checkout            
